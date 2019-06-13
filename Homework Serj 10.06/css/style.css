@@ -1,0 +1,345 @@
+/* Colors */
+/* basic settings */
+body {
+  background: #ffffff url(../img/bgcopy1.png) right top no-repeat;
+  font-family: 'Brown';
+}
+/* header */
+.btn {
+  background-color: #845cff;
+  color: #fff;
+  padding: 10px 30px;
+}
+td {
+  padding: 0 55px 0 0;
+  font-size: 17px;
+  font-weight: bold;
+  color: #32325d;
+}
+/* main */
+.main {
+  margin-top: 20px;
+}
+.main-title {
+  margin-top: 200px;
+}
+.main-title h1 {
+  font-size: 35px;
+  font-weight: bold;
+  color: #32325d;
+}
+.main-title p {
+  font-weight: 300;
+  font-size: 20px;
+  margin-top: 40px;
+  margin-bottom: 2rem;
+  color: #32325d;
+}
+/* section first */
+.first h3 {
+  margin-bottom: 20px;
+  color: #32325d;
+}
+.first-img {
+  margin: 20px;
+  margin-top: 50px;
+}
+.first-wrapper h2 {
+  margin-top: 120px;
+  font-size: 45px;
+  font-weight: 300;
+  color: #32325d;
+}
+/* section second */
+.second {
+  background: #ffffff url(../img/bg_3.png) center bottom no-repeat;
+  text-align: center;
+  margin-bottom: 100px;
+  color: #32325d;
+}
+.second h1 {
+  margin-top: 200px;
+}
+.second p {
+  margin-top: 50px;
+}
+.second img {
+  margin-top: 100px;
+}
+.second .container p {
+  margin-top: 20px;
+}
+/* third second */
+.third {
+  color: #32325d;
+}
+.third h1 {
+  font-size: 45px;
+  margin-top: 200px;
+  margin-bottom: 30px;
+  font-weight: 300;
+}
+.third p {
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-weight: 300;
+}
+.third table {
+  margin-bottom: 40px;
+}
+.third table h3 {
+  font-size: 30px;
+  font-weight: 300;
+}
+.third table td {
+  font-weight: 300;
+}
+.third button {
+  margin-right: 30px;
+}
+.third span {
+  font-weight: regular;
+  font-size: 18px;
+}
+.third .bg {
+  margin-top: 200px;
+}
+/* fourth second */
+.fourth {
+  color: #32325d;
+}
+.fourth h1 {
+  font-size: 45px;
+  margin-top: 200px;
+  margin-bottom: 30px;
+  font-weight: 300;
+}
+.fourth p {
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-weight: 300;
+}
+.fourth table {
+  margin-bottom: 40px;
+}
+.fourth table h3 {
+  font-size: 30px;
+  font-weight: 300;
+}
+.fourth table td {
+  font-weight: 300;
+}
+.fourth button {
+  margin-right: 30px;
+}
+.fourth span {
+  font-weight: regular;
+  font-size: 18px;
+}
+.fourth .text {
+  padding-left: 50px;
+}
+.fourth .bg {
+  margin-top: 200px;
+  padding: 0;
+}
+/* fifth second */
+.fifth {
+  color: #32325d;
+}
+.fifth .container {
+  background: url(../img/vector_smart_object1.png) right no-repeat;
+}
+.fifth h1 {
+  font-size: 45px;
+  font-weight: 300;
+  margin-top: 200px;
+}
+.fifth p {
+  font-weight: 300;
+  font-size: 17px;
+  margin-top: 30px;
+}
+.fifth img {
+  margin-right: 15px;
+}
+.fifth h2 {
+  margin-top: 60px;
+}
+.fifth .wrapper h2 {
+  margin-top: 60px;
+}
+.fifth .wrapper p {
+  margin-top: 30px;
+}
+/* sixth second */
+.sixth {
+  color: #32325d;
+  background-color: #f4f4fd;
+}
+.sixth h1 {
+  font-weight: 300;
+}
+.sixth h2 {
+  font-weight: 300;
+  font-size: 18px;
+  margin-bottom: 90px;
+}
+.sixth .wrapper {
+  margin-left: 30px;
+  margin-top: 90px;
+  width: 550px;
+  height: 60px;
+  background-color: #fff;
+}
+.sixth .wrapper input {
+  display: inline;
+  color: #32325d;
+  margin-left: 80px;
+  margin-top: 10px;
+  border: none;
+  font-size: 25px;
+  font-weight: 300;
+}
+.sixth .wrapper button {
+  color: #845cff;
+  border: none;
+  font-size: 19px;
+  background-color: white;
+  margin-bottom: 14px;
+  font-weight: bold;
+}
+.sixth .img {
+  margin-top: 70px;
+}
+.sixth .container {
+  margin-top: 300px;
+}
+/* footer */
+.footer {
+  background-color: #212240;
+}
+.footer img {
+  margin-top: 120px;
+}
+.footer table {
+  margin-top: 120px;
+}
+.footer td {
+  color: white;
+  font-weight: 300;
+  padding: 15px;
+}
+.footer p {
+  color: white;
+  margin-top: 30px;
+}
+.footer .images {
+  padding: 10px;
+  margin-top: 20px;
+}
+.footer .images img {
+  margin-top: 10px;
+}
+.footer .uber {
+  color: #555377;
+}
+.footer .privacy {
+  color: #555377;
+  margin-top: 510px;
+  margin-left: 800px;
+}
+.footer .privacy span {
+  margin-right: 90px;
+}
+@media (max-width: 576px) {
+  body {
+    background: none;
+    text-align: center;
+  }
+  .main-title {
+    margin-top: 30px;
+  }
+  .logo {
+    display: none;
+  }
+  td {
+    padding: 0 50px 0 0;
+  }
+  .third h1 {
+    margin-top: 30px;
+  }
+  .third .bg {
+    display: none;
+  }
+  .fourth h1 {
+    margin-top: 90px;
+  }
+  .fourth .bg {
+    display: none;
+  }
+  .fifth h1 {
+    margin-top: 60px;
+  }
+  .fifth .container {
+    background: none;
+  }
+  .sixth .container {
+    margin-top: 30px;
+  }
+  .footer table {
+    display: none;
+  }
+  .footer .col-lg-3 {
+    display: none;
+  }
+  .footer .col-lg-2 {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+body {
+    background: none;
+    text-align: center;
+  }
+  .main-title {
+    margin-top: 30px;
+  }
+  .logo {
+    display: none;
+  }
+  td {
+    padding: 0 90px 0 0;
+  }
+  .third h1 {
+    margin-top: 30px;
+  }
+  .third .bg {
+    display: none;
+  }
+  .fourth h1 {
+    margin-top: 90px;
+  }
+  .fourth .bg {
+    display: none;
+  }
+  .fifth h1 {
+    margin-top: 60px;
+  }
+  .fifth .container {
+    background: none;
+  }
+  .sixth .container {
+    margin-top: 30px;
+  }
+  .footer table {
+    display: none;
+  }
+  .footer .col-lg-3 {
+    display: none;
+  }
+  .footer .col-lg-2 {
+    display: none;
+  }
+}
